@@ -1,7 +1,7 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9B51E0&center=true&vCenter=true&width=600&lines=hi+i'm+changwook+lee;electrical+engineering+%40+kaist;deeply+interested+in+AI+%26+ML" alt="Typing Animation" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=CHANGWOOK+LEE;EE+%40+KAIST;AI+%2F+ML+ENGINEER;BUILDING+THE+FUTURE" alt="Typing Animation" /> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=changwook06&color=9B51E0&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=changwook06&color=00FFD1&style=for-the-badge&label=SYSTEM+ACCESS" alt="Views" />
 </p>
 
 ---
