@@ -32,5 +32,5 @@
 ---
 
 ### current focus
-* developing python automation tools for file management
+* developing innovative ideas into real applications
 * applying multivariable calculus to engineering simulations
