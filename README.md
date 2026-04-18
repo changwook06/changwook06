@@ -8,7 +8,7 @@
 ---
 
 ### about me
-* electrical engineering student @ KAIST
+* electrical engineering + computer science student @ KAIST
 * focused on AI, machine learning, and computer science
 * valedictorian from the American International School of Riyadh
 * based in Daejeon, South Korea
